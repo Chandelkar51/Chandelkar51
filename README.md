@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikhil Chandelkar
-- 🌱 I’m currently learning MERN
+- 🌱 I’m MERN Stack developer
 - 💞️ I’m looking to collaborate on Fullstack Projects
 - 📫 How to reach me : nikhil05052001@gmail.com || https://in.linkedin.com/in/nikhil-chandelkar-9999b9289
 
