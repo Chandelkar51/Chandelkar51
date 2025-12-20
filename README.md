@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate Fullstack developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandelkar51&label=Profile%20views&color=0e75b6&style=flat" alt="chandelkar51" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandelkar51&label=Profile%20views&color=0e75b6&style=flat" alt="chandelkar51" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandelkar51" alt="chandelkar51" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://chandelkar51.github.io/portfolio/](https://chandelkar51.github.io/portfolio/)
 
-- 📫 How to reach me **nikhil05052001@gmail.coom**
+- 📫 How to reach me **nikhil05052001@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
