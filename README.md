@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://chandelkar51.github.io/portfolio/](https://chandelkar51.github.io/portfolio/)
 
-- 📫 How to reach me **nikhil05052001@gmail.com**
+- 📫 Reach me at : **nikhil05052001@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
